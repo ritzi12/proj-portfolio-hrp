@@ -1,4 +1,4 @@
-![image](https://github.com/ritzi12/proj-portfolio-hrp/assets/80144294/96f99c7f-b0b5-46d8-94de-8f0f571c7035)# Hierarchical Risk Parity - Portfolio Optimisation Technique
+# Hierarchical Risk Parity - Portfolio Optimisation Technique
 
 In this project we explore the method of HRP for porfolio composition which has well diversified risk. And we compare it's performance against conventional portfolio optimisation technique such as Markowitz Mean-Variance(MVP) Portfolio. 
 
