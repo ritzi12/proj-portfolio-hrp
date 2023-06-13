@@ -1,4 +1,4 @@
-# Hierarchical Risk Parity - Portfolio Optimisation Technique
+![image](https://github.com/ritzi12/proj-portfolio-hrp/assets/80144294/96f99c7f-b0b5-46d8-94de-8f0f571c7035)# Hierarchical Risk Parity - Portfolio Optimisation Technique
 
 In this project we explore the method of HRP for porfolio composition which has well diversified risk. And we compare it's performance against conventional portfolio optimisation technique such as Markowitz Mean-Variance(MVP) Portfolio. 
 
@@ -24,6 +24,22 @@ The HRP method's advantages become evident when compared to traditional approach
 
 ## Results or Data Visualisations
 
+###  Clustering and Dendogram of Stocks
 
 ![image](https://github.com/ritzi12/proj-portfolio-hrp/assets/80144294/6a58795d-0eab-4022-8b17-e158f4992bcb)
+
+### Portfolio COmposition
+
+![image](https://github.com/ritzi12/proj-portfolio-hrp/assets/80144294/dbfe18db-df4a-4111-9649-a2813ddc849f)
+
+![image](https://github.com/ritzi12/proj-portfolio-hrp/assets/80144294/fee99c63-941f-4260-a289-4cfe88a5c68a)
+
+### Cumulative Returns
+
+![image](https://github.com/ritzi12/proj-portfolio-hrp/assets/80144294/9118772c-0cef-40dc-806a-9c07878625e9)
+
+![image](https://github.com/ritzi12/proj-portfolio-hrp/assets/80144294/a5fb2e86-6619-4935-9efb-17d622e2e256)
+
+
+
 
